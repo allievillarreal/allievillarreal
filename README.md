@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 💫 About Me:
+I'm Allie!<br>I'm a Career Coach and Community Manager working primarily in the tech space. <br>My goal is to help tear the paper ceiling and democratize tech education & access.<br><br>I'm always looking to connect and collaborate with other who are excited to:<br>- promote open source education & career tools<br>- democratize tech by creating open source software (OSS) that has impact<br>- learn more about how to showcase their skills and strengths to find a career they love!<br><br>Looking to connect? <br>linkedin.com/in/allievill
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/allielikewoah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/allievill) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/allielikewoah) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/allielikewoah) 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
